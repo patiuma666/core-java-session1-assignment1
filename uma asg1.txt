@@ -1,0 +1,3 @@
+*java is an object oriented language 
+*where has we can compile a java program and can run in any operating system
+*jvm java virtual machine is a translator between compiler and system code by this we can say that java is an platform independent.
